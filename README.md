@@ -46,6 +46,7 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 - render pipeline blueprint system
 - millions of objects on screen
 - multi-threading rendering
+- runtime virtual texture
    
 ## Graphics
 - decals
