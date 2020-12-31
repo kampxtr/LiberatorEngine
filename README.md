@@ -42,7 +42,7 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 - cross API (D3D11, D3D12, Vulkan,,) 
 
 ## Rendering engine
-- fully data-driven
+- fully data-driven(fully dynamic extensible with render graph)
 - programmable material system
 - millions of objects on screen
 - multi-threading rendering
