@@ -46,7 +46,7 @@ I spend 1 year to write the game engine at the last year of my college. And i pu
 - programmable material system
 - millions of objects on screen
 - multi-threading rendering
-- frame graph(auto barrier, auto split pass, auto parallelism, auto dynamic culling, auto GPU schedule)
+- frame graph(auto barrier, auto split pass, auto parallelism, auto culling nodes, auto GPU schedule)
 - runtime virtual texture
    
 ## Graphics
