@@ -186,10 +186,7 @@ Completed at 2017.5.18
 <br>
 <br>
 
-![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/5.png)
-<br>
-<br>
-<br>
+
 
 ### Disney path tracer : metal,dieletric,glass,clearcoat,cloth,subsurface,specTrans,diffTrans,thin all in one.
 ## ↓
@@ -198,6 +195,10 @@ Completed at 2017.5.18
 <br>
 <br>
 
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/6.jpg)
+<br>
+<br>
+<br>
 
 | real time 5MB gif ↓ | ground true subsurface scattering ↓ |
 | --- | --- |
@@ -231,6 +232,10 @@ Completed at 2017.5.18
 
  
  
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/5.png)
+<br>
+<br>
+<br>
 
 ## demo is cheap, not a big deal though. (hold on !!! 2M picture here !!!)
 ## ↓
@@ -241,6 +246,7 @@ Completed at 2017.5.18
 <br>
 <br>
 <br>
+
 
 
 
