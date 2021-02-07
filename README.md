@@ -195,14 +195,15 @@ Completed at 2017.5.18
 <br>
 <br>
 
-![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/6.jpg)
+### ground true subsurface scattering ↓
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/4.jpg)
 <br>
 <br>
 <br>
 
-| real time 5MB gif ↓ | ground true subsurface scattering ↓ |
+| real time 5MB gif ↓ |  ... ↓ |
 | --- | --- |
-|![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/2019-2-23.gif) |  ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/4.png)|
+|![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/2019-2-23.gif) |  ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/6.jpg)|
 
 | ↓ |  fully dynamic fully real time GI ↓ |
 | --- | --- |
@@ -215,6 +216,10 @@ Completed at 2017.5.18
 | SSR ↓ |  realistic human face ↓ |
 | --- | --- |
 |![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/2.png) |  ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/2019.12.32.png)|
+
+| cloths ↓ | silver  ↓ |
+| --- | --- |
+|![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/8.jpg) |  ![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/8.png)|
 
 | volumetrics ↓ | Disney realtime PTGI  ↓ |
 | --- | --- |
